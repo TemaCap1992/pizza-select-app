@@ -86,3 +86,7 @@ if (selectedPlaceholder.innerHTML === 'Выбери пожалуйста вид 
   disabledSize.setAttribute("disabled", "disabled")
   disabledSous.setAttribute("disabled", "disabled")
 }
+
+
+
+
